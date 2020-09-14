@@ -1,0 +1,8 @@
+STEP1: open telegram app in your phone.
+STEP2: open app sreach for "botfather" and start the "BotFather"
+STEP3: click on start button in BotFather and create your own bot and name the bot according. name:by and choose user name as:AW23_bot.
+STEP4:obtain access token and copy the token 
+To write pyhton code in IDE chnage the token code and install telepot if needed by installing pip telepot.
+run the codes and give commands using telegram app.
+hence the commands:
+  
