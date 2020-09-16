@@ -5,10 +5,10 @@ STEP4:obtain access token and copy the token
 To write pyhton code in IDE chnage the token code and install telepot if needed by installing pip telepot.
 run the codes and give commands using telegram app.
 hence the commands:
-  https://api.telegram.org/bot1302764251:AAFK-t2r9xGxy0A0O5OcLls_5H7akNNuwHg/getMe
-  https://api.telegram.org/bot1302764251:AAFK-t2r9xGxy0A0O5OcLls_5H7akNNuwHg/getUpdates
-  https://api.telegram.org/bot1302764251:AAFK-t2r9xGxy0A0O5OcLls_5H7akNNuwHg/sendMessage?chat_id=1334939688&text=WeLoveIoT
-  https://api.telegram.org/bot1302764251:AAFK-t2r9xGxy0A0O5OcLls_5H7akNNuwHg/sendMessage?chat_id=1334939688&text=IamAbigailWilson
+  https://api.telegram.org/botTOKEN/getMe
+  https://api.telegram.org/botTOKEN/getUpdates
+  https://api.telegram.org/botTOKEN/sendMessage?chat_id=YOUR ID&text=WeLoveIoT
+  https://api.telegram.org/botTOKEN/sendMessage?chat_id=GIVEN ID&text=IamAbigailWilson
   
   
   
